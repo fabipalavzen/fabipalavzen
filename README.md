@@ -7,9 +7,9 @@ Estoy abierto a **oportunidades junior** y **proyectos freelance remotos**, tant
 
 - Desarrollo web y de aplicaciones.
 - Diseño responsive y mejora de interfaces.
-- Implementación de **PWA** y experiencias instalables.
+- Implementación de PWA y experiencias instalables.
 - Pruebas beta con usuarios y priorización de feedback.
 - Documentación técnica: README, changelog, decisiones y uso de IA.
-- Uso responsable de IA como acelerador: **reviso, corrijo, testeo y documento** lo generado.
+- Uso responsable de IA como acelerador: reviso, corrijo, testeo y documento lo generado.
 - **Background en diseño gráfico (más de 10 años, autodidacta) aplicado a UX/UI**: jerarquía visual, legibilidad, consistencia y experiencia de usuario.
-- Stack: [JavaScript/TypeScript, React, Node.js, HTML, CSS, Git/GitHub, etc.].
+- Stack: JavaScript, React, HTML, CSS, Git/GitHub, Python.
